@@ -1,0 +1,8 @@
+prefix=/home/nathan/MDP/gmapping/devel
+
+Name: my_robot_gmapping
+Description: Description of my_robot_gmapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

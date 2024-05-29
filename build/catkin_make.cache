@@ -1,0 +1,2 @@
+my_robot_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/nathan/MDP/gmapping/devel -DCMAKE_INSTALL_PREFIX=/home/nathan/MDP/gmapping/install -G Unix Makefiles
